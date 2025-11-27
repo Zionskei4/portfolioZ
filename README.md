@@ -2,8 +2,6 @@
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kenan-bens-projects/v0-kenan-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/56xEGjzCYbF)
 
 ## Overview
 
@@ -14,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://l.facebook.com/l.php?u=https%3A%2F%2Fportfolio-z-c345.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExWnhnRkhHd21GTjZPeWZOMnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5F3FeXh4KQjhqAT1qVZO-B2OfcivnfX3H02_Q1R8g6_ce21zSqL-7rjVx5wA_aem_6RF74Fj5wcoVTWp9T_2w3w&h=AT0PAh2v6ZaA8fqhOjG8i27FSHYMQQmQnuO61FvOh20uMNlUrhJXt9F8e8vcQsM1vOukxNWtFe-0pJayrLAvb7FjrDE6keyOcsWQ-ZyQK5ImRewl_qQU9ad7kAhyfSZOnFTvUA)**
+**[https://portfolio-z-c345.vercel.app/)**
 
 ## Build your app
 
