@@ -1,51 +1,35 @@
-🌐 Zion – Portfolio Website
+🌟 Zion Portfolio Website
 
-Automatically synced with your deployments from v0.dev
+Synced automatically with your deployments from v0.dev
 .
 
-📌 Overview
+🔍 Overview
 
-This repository is automatically connected to your v0.dev project.
-Any updates you make through the v0 editor will be synced directly to this GitHub repository.
+This repository updates automatically based on changes made in your v0.dev project.
+Every deployment triggers an instant sync to GitHub and Vercel.
 
-This setup ensures a seamless workflow between:
+🌐 Live Site
 
-v0.dev (building & editing)
+✨ https://portfolio-z-c345.vercel.app/
 
-GitHub (version control)
+🧩 Edit Your Project
 
-Vercel (deployment)
+Continue building and improving your portfolio here:
 
-🚀 Live Website
+🔧 https://v0.dev/chat/projects/56xEGjzCYbF
 
-Your portfolio is live and always up-to-date at:
+🔄 How Syncing Works
 
-👉 https://portfolio-z-c345.vercel.app/
+Update your project on v0.dev
 
-🛠 Continue Building
+Deploy through the v0 interface
 
-To modify, improve, or expand your project, use your dedicated v0 workspace:
+v0 pushes updates to this GitHub repo
 
-👉 https://v0.dev/chat/projects/56xEGjzCYbF
+Vercel deploys the latest version automatically
 
-🔄 Automatic Sync Workflow
+📝 Notes
 
-Here’s how your system works end-to-end:
+Avoid editing generated files unless you understand the structure
 
-Build or update your project using v0.dev
-
-Deploy changes through the v0 interface
-
-v0 automatically pushes the latest code to this GitHub repository
-
-Vercel detects updates and redeploys the newest version instantly
-
-This creates a zero-maintenance CI/CD pipeline with no extra setup required.
-
-📄 Important Notes
-
-Avoid manually editing automatically generated files unless you're familiar with the structure.
-
-For UI improvements or structural changes, it’s best to use the v0.dev editor.
-
-GitHub + Vercel will handle all syncing and deployment automatically.
+Best experience: make changes directly through v0.dev
